@@ -61,7 +61,7 @@
             bindings = <
 &trans  &kp LG(NUMBER_1)  &kp LG(NUMBER_2)  &kp LG(NUMBER_3)  &kp LG(NUMBER_4)  &kp LG(NUMBER_5)    &trans         &trans         &trans         &trans         &trans  &trans
 &trans  &trans            &trans            &trans            &trans            &trans              &kp LG(LC(H))  &kp LC(LG(J))  &kp LC(LG(K))  &kp LC(LG(L))  &trans  &trans
-&trans  &trans            &trans            &trans            &trans            &trans              &trans         &trans         &trans         &trans         &trans  &trans
+&trans  &trans            &trans            &trans            &trans            &trans              &trans         &trans         &trans         &trans         &trans  &kp LG(TILDE)
                                             &trans            &trans            &trans              &trans         &trans         &trans
             >;
         };
